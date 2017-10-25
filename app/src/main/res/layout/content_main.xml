@@ -9,6 +9,6 @@
     tools:context="com.fashioncollections.fashioncollections.MainActivity"
     tools:showIn="@layout/app_bar_main">
 
-   
+
 
 </FrameLayout>

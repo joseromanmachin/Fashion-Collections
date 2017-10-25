@@ -4,8 +4,8 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/codigointernet"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
+            android:icon="@drawable/ic_buscar"
+            android:title="@string/codigointernet" />
         <item
             android:id="@+id/codigointernet2"
             android:icon="@drawable/ic_menu_camera"
