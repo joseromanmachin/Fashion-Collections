@@ -1,0 +1,1 @@
+select id,pagina, marca, modelo, color, codigointernet,costoproveedor, costodeventaalpublico,comicionmercado, gananciareal  from productos where modelo="52702";
